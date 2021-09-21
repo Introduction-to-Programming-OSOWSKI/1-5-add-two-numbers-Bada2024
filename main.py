@@ -1,4 +1,5 @@
 #WRITE YOUR CODE IN THIS FILE
-def addTwoNumbers(x,y):
+def add(x,y):
+    #def function that will add two numbers
     return x+y
-print(addTwoNumbers(6, 4))
+    #return varibales added by each other
